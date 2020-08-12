@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-    Clonar projeto: git clone https://github.com/PedroHenrique-git/crud-php.git
+    Clonar projeto: git clone https://github.com/PedroHenrique-git/AplicacaoProffyNextLevelWeek-V1.0.git
 </p>
  
- ![VISUAL](/images/Proffy.PNG)
+ ![VISUAL](/images/proffy.PNG)
