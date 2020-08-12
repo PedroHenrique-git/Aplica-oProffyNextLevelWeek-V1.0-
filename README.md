@@ -6,8 +6,6 @@
 
 <p align="left">
     <ul>
-        <li><a href="https://nodejs.org/en/">🔗 NodeJs</a></li>
-        <li><a href="https://www.sqlite.org/index.html">🔗 Sqlite</a></li>
         <li><a href="https://www.typescriptlang.org/">🔗 TypeScript</a></li>
       <li><a href="https://pt-br.reactjs.org/">🔗 ReactJs</a></li>
     </ul>
