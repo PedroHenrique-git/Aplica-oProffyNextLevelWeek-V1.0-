@@ -18,4 +18,4 @@
     Clonar projeto: git clone https://github.com/PedroHenrique-git/AplicacaoProffyNextLevelWeek-V1.0.git
 </p>
  
- ![VISUAL](/images/proffy.PNG)
+ ![VISUAL](proffy.PNG)
