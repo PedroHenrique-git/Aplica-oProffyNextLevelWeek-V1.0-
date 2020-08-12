@@ -18,4 +18,4 @@
     Clonar projeto: git clone https://github.com/PedroHenrique-git/crud-php.git
 </p>
  
- ![VISUAL](/images/Capture.PNG)
+ ![VISUAL](/images/Proffy.PNG)
