@@ -1,8 +1,16 @@
-<h1 align="center">Aplicação proffy</h1>
+<h1>Proffy application</h1>
 
-<p align="left">
-  Front-end da aplicação Proffy desenvolvida durante a seamana next level week 2
+<p>
+  Front-end of the Proffy application developed during the week next level week 2
 </p>
+
+## Getting Started
+
+install dependencies: <b>npm run install</b> 
+
+start project: <b>npm run start</b>
+
+## Built With
 
 <p align="left">
     <ul>
@@ -11,8 +19,10 @@
     </ul>
 </p>
 
-<p align="left">
-    Clonar projeto: git clone https://github.com/PedroHenrique-git/AplicacaoProffyNextLevelWeek-V1.0.git
-</p>
+## Images
  
  ![VISUAL](proffy.PNG)
+ 
+ ## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
